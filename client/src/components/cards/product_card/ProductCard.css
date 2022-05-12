@@ -1,0 +1,6 @@
+.ant-card-cover img {
+  max-width: 100%;
+  min-height: 300px;
+  max-height: 300px;
+  object-fit: cover;
+}

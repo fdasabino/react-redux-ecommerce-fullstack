@@ -1,0 +1,17 @@
+.register__container {
+  height: 100vh;
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://images.pexels.com/photos/1127000/pexels-photo-1127000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.register__wrapper {
+  max-width: 100%;
+  min-width: fit-content;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.4);
+}

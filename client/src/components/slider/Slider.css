@@ -1,0 +1,32 @@
+.carousel_slider img {
+  object-fit: cover;
+  height: 60vh;
+  filter: brightness(0.6);
+  max-width: 100vw !important;
+}
+
+.legend {
+  background: rgba(0, 0, 0, 0.6) !important;
+  opacity: 1 !important;
+  border-radius: 3px !important;
+}
+
+.legend h5 {
+  font-weight: 300;
+  color: #fff !important;
+}
+
+.legend h4 {
+  font-weight: 300;
+  color: #fff !important;
+}
+
+@media screen and (max-width: 568px) {
+  .legend h5 {
+    font-size: 0.8rem;
+  }
+
+  .legend h4 {
+    font-size: 1rem;
+  }
+}
