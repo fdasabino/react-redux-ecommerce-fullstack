@@ -10,8 +10,6 @@
 
 ### Test Payments with Stripe
 
-### Test Payments with Stripe
-
 - As a simple example of the functionality of the application, users can add products to their shopping cart, and make
   test purchases.
 
